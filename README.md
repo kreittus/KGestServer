@@ -5,7 +5,7 @@
 Este é a API REST do meu sistema de gestão de barbearia https://github.com/kreittus/Kgest
 
 <h4> 
-	🚧  Kgest 🚀 Em andamento...  🚧
+	🚧  KgestServer 🚀 Em andamento...  🚧
 </h4>
 
 # 🛠 Tecnologias
